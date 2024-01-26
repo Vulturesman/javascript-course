@@ -36,5 +36,5 @@ const getCountryData = function (country) {
   });
 };
 
-getCountryData('portugal');
+getCountryData('ireland');
 getCountryData('usa');
